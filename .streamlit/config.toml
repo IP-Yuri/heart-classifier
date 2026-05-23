@@ -1,0 +1,7 @@
+[theme]
+# The Luna Palette
+primaryColor = "#00E5FF" # Electric Cyan for buttons/sliders
+backgroundColor = "#0A0F1A" # Deep Midnight Navy
+secondaryBackgroundColor = "#121A2F" # Slightly lighter navy for sidebars/cards
+textColor = "#FFFFFF" # Crisp white text
+font = "sans serif"
